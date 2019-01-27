@@ -1,0 +1,69 @@
+Attributs;Description;Unit�s;Source
+IDH_17;Indicateur de d�veloppement humain en 2017;;PNUD - 2018
+ESVIEN17;Esp�rance de vie � la naissance en 2017;Ann�es;PNUD - 2018
+SCOATT_17;Dur�e de scolarisation attendue en 2017;Ann�es;PNUD - 2018
+SCOMOY_17;Dur�e de scolarisation moyenne en 2017;Ann�es;PNUD - 2018
+RNBHAB_17;Revenu national brut par habitant en 2017;US$ en parit� de pouvoir d'achat de 2011;PNUD - 2018
+IDH_90;Indicateur de d�veloppement humain en 1990;;PNUD - 2018
+IDH_2000;Indicateur de d�veloppement humain en 2000;;PNUD - 2018
+IDH_10;Indicateur de d�veloppement humain en 2010;;PNUD - 2018
+IDH_12;Indicateur de d�veloppement humain en 2012;;PNUD - 2018
+IDH_14;Indicateur de d�veloppement humain en 2014;;PNUD - 2018
+IDH_15;Indicateur de d�veloppement humain en 2015;;PNUD - 2018
+IDH_16;Indicateur de d�veloppement humain en 2016;;PNUD - 2018
+GINI_1017;Indice de Gini des in�galit�s de revenus sur la p�riode 2010-2017;;PNUD - 2018
+ESVIEN17F;Esp�rance de vie � la naissance des femmes en 2017;Ann�es;PNUD - 2018
+ESVIEN17H;Esp�rance de vie � la naissance des hommes en 2017;Ann�es;PNUD - 2018
+SCOATT17F;Dur�e de scolarisation attendue des femmes en 2017;Ann�es;PNUD - 2018
+SCOATT17H;Dur�e de scolarisation attendue des hommes en 2017;Ann�es;PNUD - 2018
+SCOMOY17F;Dur�e de scolarisation moyenne des femmes en 2017;Ann�es;PNUD - 2018
+SCOMOY17H;Dur�e de scolarisation moyenne des hommes en 2017;Ann�es;PNUD - 2018
+RNBHAB17F;Revenu national brut par habitant des femmes en 2017;US$ en parit� de pouvoir d'achat de 2011;PNUD - 2018
+RNBHAB17H;Revenu national brut par habitant des hommes en 2017;US$ en parit� de pouvoir d'achat de 2011;PNUD - 2018
+TMM2015;Taux de mortalit� maternelle en 2015;Nombre de d�c�s pour 100 000 naissances vivantes;PNUD - 2018
+TXFPARL17;Part des si�ges d�tenus par des femmes au Parlement en 2017;Pourcentages;PNUD - 2018
+POP2017;Population en 2017;Millions d'habitants;PNUD - 2018
+POP2030;Population estim�e en 2013;Millions d'habitants;PNUD - 2018
+TCAM0510;Taux de croissance annuel moyen de la population sur la p�riode 2005-2010;Pourcentages;PNUD - 2018
+TCAM1520;Taux de croissance annuel moyen de la population sur la p�riode 2015-2020;Pourcentages;PNUD - 2018
+TXURB17;Taux d'urbanisation de la population en 2017;Pourcentages;PNUD - 2018
+0005_2017;Part de la population �g�e de moins de 5 ans dans la population totale en 2017;Pourcentages;PNUD - 2018
+1564_2017;Part de la population �g�e de 15 ans � 65 ans dans la population totale en 2017;Pourcentages;PNUD - 2018
+65+_2017;Part de la population �g�e de plus de 65 ans dans la population totale en 2017;Pourcentages;PNUD - 2018
+AGEMED2015;Age m�dian en 2015;Ann�es;PNUD - 2018
+IF0510;Taux de f�condit� sur la p�riode 2005-2010;Nombre de naissances par femme;PNUD - 2018
+IF1520;Taux de f�condit� sur la p�riode 2015-2020;Nombre de naissances par femme;PNUD - 2018
+MALNI1016;Taux de malnutrition infantile sur la p�riode 2010-2016;Pourcentages des enfants de moins de 5 ans;PNUD - 2018
+TMI16;Taux de mortalit� infantile (enfants de moins de un an) en 2016;Pour 1000 naissances vivantes;PNUD - 2018
+TUBERC16;Taux de mortalit� cons�cutif � la tuberculose en 2016;Pour 100 000 personnes;PNUD - 2018
+HIVPREV16;Pr�valence des adultes atteints du HIV en 2016;Pourcentages des adultes de 15-49 ans;PNUD - 2018
+ESVBS16;Esp�rance de vie en bonne sant� en 2016;Ann�es;PNUD - 2018
+DEPSANT15;Part des d�penses de sant� dans le PIB en 2015;Pourcentages;PNUD - 2018
+ALPHA0616;Taux d'alphab�tisation des adultes sur la p�riode 2006-2016;Pourcentages des adultes de plus de 15 ans;PNUD - 2018
+ALPJF0616;Taux d'alphab�tisation des ;Pourcentages des jeunes femmes de 15-24 ans;PNUD - 2018
+ALPJH0616;Taux d'alphab�tisation des jeunes hommes sur la p�riode 2016-2016;Pourcentages des jeunes hommes de 15-24 ans;PNUD - 2018
+EDSEC0617;Part des adultes scolaris�s dans le secondaire sur la p�riode 2006-2017;Pourcentages des adultes de 25 ans et plus;PNUD - 2018
+DEDUC1217;Part des d�penses d'�ducation dans le PIB sur la p�riode 2012-2017;Pourcentages;PNUD - 2018
+PIB2017;Produit int�rieur brut en 2017;Milliards de US$ en parit� de pouvoir d'achat de 2011;PNUD - 2018
+PIBHAB17;Produit int�rieur brut par habitant en 2017;US$ en parit� de pouvoir d'achat de 2011;PNUD - 2018
+CRAPIB17;Taux de croissance annuel du PIB en 2017;Pourcentages;PNUD - 2018
+AGRIC17;Part de la population active employ�e dans l'agriculture en 2017;Pourcentages;PNUD - 2018
+TERT17;Part de la population active employ�e dans les services en 2017;Pourcentages;PNUD - 2018
+TXCH2017;Taux de ch�mage en 2017;Pourcentages;PNUD - 2018
+TXCHJ17;Taux de ch�mage des jeunes en 2017;Pourcentages des jeunes de 15-24 ans;PNUD - 2018
+TRPAUV17;Part des travailleurs pauvres (salaire quotidien inf�rieur ou �gal � 3,1US$) dans la population active avec un emploi en 2017;Pourcentages;PNUD - 2018
+RETR0616;Acc�s � la retraite sur la p�riode 2006-2016;Part des personnes en �ge de b�n�ficier d'une pension de retraite;PNUD - 2018
+REF2017;Nombre de r�fugi�s par pays d'origine en 2017;Milliers de personnes;PNUD - 2018
+DEPL2017;Nombre de d�plac�s en 2017;Milliers de personnes;PNUD - 2018
+CATNAT0717;Moyenne annuelle des personnes sans domicile � la suite d'une catastrophe naturelle sur la p�riode 2007-2017;Pour un million d'habitants;PNUD - 2018
+POPCAR0415;Population carc�rale sur la p�riode 2004-2015;Pour 100 000 personnes;PNUD - 2018
+TXHOM1116;Taux d'homicide sur la p�riode 2011-2016;Pour 100 000 personnes;PNUD - 2018
+IDE2017;Investissements directs �trangers re�us en 2017;Pourcentages du PIB;PNUD - 2018
+APD2016;Aide publique au d�veloppement re�ue en 2016;Pourcentages du RNB;PNUD - 2018
+REMISES17;Remises re�ues en 2017;Pourcentages du PIB;PNUD - 2018
+SM1015;Solde migratoire sur la p�riode 2010-2015;Pour 1000 personnes;PNUD - 2018
+NIMMIG2017;Nombre d'immigrants en 2017;Pourcentage de la population;PNUD - 2018
+MOBET2017;Mobilit�s �tudiantes en 2017;Pourcentages des �tudiants;PNUD - 2018
+TINT2016;Arriv�e des touristes internationaux en 2016;Milliers de personnes;PNUD - 2018
+NET2016;Usagers d'internet en 2016;Pourcentages de la population;PNUD - 2018
+MOB2016;Abonnements � la t�l�phonie mobile en 2016;Pourcentages de la population;PNUD - 2018
