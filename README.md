@@ -5,4 +5,4 @@ Le fond vectoriel est issu du <a href="https://ec.europa.eu/eurostat/web/gisco/g
 
 Le decriptif des champs attributaires est disponible dans le fichier data_pnud_2018_definitions_variables au format csv.
 
-Les couches sont disponibles aux formats shapefile,GeoJSON et GeoPackage.
+Les couches sont disponibles aux formats shapefile, GeoJSON et GeoPackage.
