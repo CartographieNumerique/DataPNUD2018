@@ -4,3 +4,5 @@ Les données sont issues de la <a href="http://hdr.undp.org/en/2018-update">mise
 Le fond vectoriel est issu du <a href="https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/countries">portail Eurostat</a>.
 
 Le decriptif des champs attributaires est disponible dans le fichier data_pnud_2018_definitions_variables au format csv.
+
+Les couches sont disponibles aux formats shapefile,GeoJSON et GeoPackage.
